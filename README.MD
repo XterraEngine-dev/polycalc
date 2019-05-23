@@ -7,7 +7,7 @@
 #### PYTHON
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg "Logo Title Text 1")
 
-#####Execute:
+##### Execute:
 
 ```
 python coordenadas.py
@@ -15,7 +15,7 @@ python coordenadas.py
 
 #### Javascript
 ![alt text](https://raygun.com/upload/languages/javascriptr/javascript.svg "Logo Title Text 1")
-#####Support visual studio code live server
+##### Support visual studio code live server
 
 ```
 Open index.html with browser
